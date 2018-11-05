@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4757364a68895b73e558dd81a4b33a9eef60977f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_86894a5cfedf8dbb2cb80d15d18c31d0eefd248e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e4724ce44e235e1cd93132803ededd88969c9463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_047ed26bb908e37dda74218e9024fd698bc410c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_bb8fb4da430c0e992880352cb7b134ebbb2b60b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_23fb36b96fcbf77f2ef316225596d0549e64c2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\libs\Ab.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9b665ae23266e9ef409ad57c8b183fff4c6bc0fd">
+        <dex dex="C:\Users\Yashasvi\AndroidStudioProjects\ChatBotV3\app\build\intermediates\pre-dexed\debug\Ab_95f959d07a2e540a6485a812bd2b71b344f5430e.jar" />
+    </item>
+
+</items>
