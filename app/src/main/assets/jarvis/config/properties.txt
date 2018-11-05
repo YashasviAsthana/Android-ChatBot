@@ -1,0 +1,8 @@
+url:http://www.alicebot.org
+name:Jarvis
+email:callmom-info@pandorabots.com
+gender:male
+botmaster:Yashasvi
+organization:ALICE AI Foundation
+version:1.0
+
